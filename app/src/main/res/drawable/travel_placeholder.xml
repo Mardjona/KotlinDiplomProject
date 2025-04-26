@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="960"
+    android:viewportHeight="960">
+    <path
+        android:fillColor="#03A9F4"
+        android:pathData="M0,0h960v960h-960z" />
+    
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M480,200m-120,0a120,120 0,1 1,240 0a120,120 0,1 1,-240 0" />
+    
+    <!-- Mountain -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,960L360,400L480,580L600,500L960,960" />
+    
+    <!-- Mountain Tops -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M360,400L420,470L300,470" />
+    
+    <!-- Clouds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M200,300m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M250,300m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M300,300m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M700,250m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M750,250m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M800,250m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0" />
+    
+    <!-- Airplane -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M650,400l50,-20l30,0l-30,70l-50,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M680,380l100,-70l30,10l-100,80l-30,-20z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M720,450l-90,30l0,20l110,-10z" />
+</vector> 
